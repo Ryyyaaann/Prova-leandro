@@ -1,0 +1,17 @@
+footer{
+    background-color: blue;
+    color: white;
+    padding: 0px;
+
+}
+.logosesi{  
+    position: relative;
+    width: 200px;   
+    left: 500px;
+    top: 50px;
+}
+.ttts{
+    position: relative;
+    text-align: center;
+    top: -50px;
+}

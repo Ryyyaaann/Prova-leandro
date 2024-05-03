@@ -1,0 +1,31 @@
+
+
+.IMG1, .IMG2,.IMG3, .IMG4, .IMG5, .IMG6{
+    width: 200px;
+    margin-left: 10px;
+    align-items: center;
+}
+.textos{
+    text-align: center;
+    
+}
+.infos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 200px;
+}
+.infos p{
+    color: blue;
+    max-width: 80%;
+    font-size: 20px;
+    position: relative;
+    left: 30px;
+}
+.IMG1, .IMG2, .IMG6{
+    width: 270px;
+}
+.IMG1, .IMG2{
+    position: relative;
+    left: 50px;
+}

@@ -1,0 +1,46 @@
+.navs{
+    
+    background-color: blue;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+}
+.itenli:hover{
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+}
+
+.itenli{
+    list-style-type: none;
+    text-decoration: none;   
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+}
+.itenul{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;    
+}
+.logosenai{
+    width: 200px;
+
+}
+.gerealnav{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+}
+.itemlink{
+    text-decoration: none;
+    color: white;
+    
+}

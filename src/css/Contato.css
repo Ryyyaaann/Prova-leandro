@@ -1,0 +1,38 @@
+.formulario{
+    flex-direction: column;
+    padding: 15px 400px;
+    margin-bottom: 400px;   
+    align-items: center;
+    border-color: aqua; 
+    text-align: left;
+    
+    
+    
+}
+.input-group{
+    background-color: rgb(212, 212, 212);
+    border: 100px;
+    flex-direction: column;
+    
+    
+    
+}
+.input-range, .input-group, .checkbox-group{
+    padding: 10px;
+    height: 10px;
+    background-color: rgb(172, 170, 170);
+}
+.boxw{
+    margin-bottom: 10px;
+}
+.check{
+    margin-bottom: 10px;
+}
+.botao-enviar{
+    font-size: 20px;
+    position: relative;
+    top: 13px;
+}
+legend{
+    font-size: 20px;
+}
